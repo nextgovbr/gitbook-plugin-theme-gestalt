@@ -1,6 +1,6 @@
 {
-    "name": "gitbook-plugin-theme-gestalt",
-    "description": "A configurable theme for GitBook",
+    "name": "gitbook-plugin-theme-next",
+    "description": "Wikia Theme",
     "main": "./index.js",
     "version": "1.0.4",
     "engines": {
@@ -25,12 +25,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/antonlegoo/gitbook-plugin-theme-gestalt"
+        "url": "https://github.com/antonlegoo/gitbook-plugin-theme-next"
     },
-    "author": "Anton Legoo <azeven@gmail.com>",
+    "author": "Douglas Gabriel Cardoso <douglas@grupoartisan.com.br>",
     "license": "Apache-2.0",
     "bugs": {
-        "url": "https://github.com/antonlegoo/gitbook-plugin-theme-gestalt/issues"
+        "url": "https://github.com/nextgovbr/gitbook-plugin-theme-next/issues"
     },
     "gitbook": {
         "properties": {
@@ -40,7 +40,7 @@
                 "properties": {
                     "website": {
                         "title": "Stylesheet for website output",
-                        "default": "styles/website.css"
+                        "default": "styles/wikia.css"
                     }
                 }
             },
