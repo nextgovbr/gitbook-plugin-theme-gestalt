@@ -1,0 +1,35 @@
+{% set linkimg = '' %}
+            {% set findbarra = false %}
+            {% for i in file.path | list('/')  %}
+
+            {% if i == '/' %}
+            {% set findbarra = true %}
+            {% endif %}
+            {% if findbarra == false %}
+            {% set linkimg = linkimg + i %}
+            {% endif %}
+            {% endfor %}
+
+<div style="
+    height: 330px!important;
+    width: auto;
+    margin-top: 80px;
+    text-align: center;
+    background: #e5ebf5;
+    border-radius: 10px;
+    "><img style="width: 90px;margin-top: 40px;" src="/logos/{{linkimg}}.png" alt="">
+			<h3 style="
+    color: #333;
+    margin-top: 15px;
+    line-height: 40px;
+    font-size: 31px!important;
+    padding-left: 60px;
+    padding-right: 60px;
+    ">Tramitar processos de {{linkimg}} 100% online?</h3>
+    	<a href="http://aprovadigital.com.br" style="
+    background: #0052cc;
+    padding: 10px 20px;
+    border-radius: 30px;
+    color: #fff;
+">Clique Aqui</a>
+		</div>

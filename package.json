@@ -1,0 +1,122 @@
+{
+  "_args": [
+    [
+      {
+        "name": "gitbook-plugin-theme-next",
+        "raw": "gitbook-plugin-theme-next@1.0.8",
+        "rawSpec": "1.0.8",
+        "scope": null,
+        "spec": "1.0.8",
+        "type": "version"
+      },
+      "/home/kropath/Aprova/wikia"
+    ]
+  ],
+  "_from": "gitbook-plugin-theme-next@1.0.8",
+  "_id": "gitbook-plugin-theme-next@1.0.8",
+  "_inBundle": false,
+  "_inCache": true,
+  "_installable": true,
+  "_integrity": "sha1-W6dsEhSNPFVa194wkwnbK8VzDLk=",
+  "_location": "/gitbook-plugin-theme-next",
+  "_nodeVersion": "6.11.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/gitbook-plugin-theme-next-1.0.8.tgz_1512394849691_0.535047892248258"
+  },
+  "_npmUser": {
+    "email": "douglas@grupoartisan.com.br",
+    "name": "douglasdm97"
+  },
+  "_npmVersion": "5.4.2",
+  "_phantomChildren": {},
+  "_requested": {
+    "escapedName": "gitbook-plugin-theme-next",
+    "fetchSpec": "https://github.com/nextgovbr/gitbook-plugin-theme-next.git",
+    "gitCommittish": "master",
+    "name": "gitbook-plugin-theme-next",
+    "raw": "gitbook-plugin-theme-next@git+https://github.com/nextgovbr/gitbook-plugin-theme-next.git",
+    "rawSpec": "git+https://github.com/nextgovbr/gitbook-plugin-theme-next.git",
+    "saveSpec": "git+https://github.com/nextgovbr/gitbook-plugin-theme-next.git",
+    "type": "git"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/gitbook-plugin-theme-next/-/gitbook-plugin-theme-next-1.0.8.tgz",
+  "_shasum": "a4dc5e0fa86c88677c14629e796620b3c0f68ba6",
+  "_shrinkwrap": null,
+  "_spec": "gitbook-plugin-theme-next@git+https://github.com/nextgovbr/gitbook-plugin-theme-next.git",
+  "_where": "C:\\bin\\vagrant\\wikia",
+  "author": {
+    "email": "douglas@grupoartisan.com.br",
+    "name": "Douglas Gabriel Cardoso"
+  },
+  "bugs": {
+    "url": "https://github.com/nextgovbr/gitbook-plugin-theme-next/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "Wikia Theme",
+  "devDependencies": {
+    "browser-sync": "^2.18.12",
+    "browserify": "13.1.0",
+    "font-awesome": "4.6.3",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-browserify": "^0.5.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-exec": "^2.1.3",
+    "gulp-ignore": "^2.0.2",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "jquery": "3.1.1",
+    "merge-stream": "^1.0.1"
+  },
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-FQCh4h/62LT/zR5TDIxvlmYJVqdM4XiYG2dD8AnvSUxXiF9uMA8LEE0T35Xb+fpoxbI/kJChIC5IHRzeauEtoQ==",
+    "shasum": "a4dc5e0fa86c88677c14629e796620b3c0f68ba6",
+    "tarball": "https://registry.npmjs.org/gitbook-plugin-theme-next/-/gitbook-plugin-theme-next-1.0.8.tgz"
+  },
+  "engines": {
+    "gitbook": ">=3.0.0"
+  },
+  "gitbook": {
+    "properties": {
+      "showLevel": {
+        "default": false,
+        "title": "Show level indicator in TOC",
+        "type": "boolean"
+      },
+      "styles": {
+        "properties": {
+          "website": {
+            "default": "styles/wikia.css",
+            "title": "Stylesheet for website output"
+          }
+        },
+        "title": "Custom Stylesheets",
+        "type": "object"
+      }
+    }
+  },
+  "homepage": "https://github.com/antonlegoo/gitbook-plugin-theme-next#readme",
+  "license": "Apache-2.0",
+  "main": "./index.js",
+  "maintainers": [
+    {
+      "email": "douglas@grupoartisan.com.br",
+      "name": "douglasdm97"
+    }
+  ],
+  "name": "gitbook-plugin-theme-next",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonlegoo/gitbook-plugin-theme-next.git"
+  },
+  "scripts": {},
+  "version": "1.0.8"
+}
