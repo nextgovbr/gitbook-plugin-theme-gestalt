@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "LANGS_CHOOSE": "Dil seçimi",
     "GLOSSARY": "Sözlük",
@@ -18,3 +19,25 @@
     "FONTSETTINGS_SANS": "Sans",
     "FONTSETTINGS_SERIF": "Serif"
 }
+=======
+{
+    "LANGS_CHOOSE": "Dil seçimi",
+    "GLOSSARY": "Sözlük",
+    "GLOSSARY_INDEX": "Dizin",
+    "GLOSSARY_OPEN": "Sözlük",
+    "GITBOOK_LINK": "GitBook ile yayınla",
+    "SUMMARY": "İçindekiler",
+    "SUMMARY_INTRODUCTION": "Giriş",
+    "SUMMARY_TOGGLE": "İçindekiler",
+    "SEARCH_TOGGLE": "Arama",
+    "SEARCH_PLACEHOLDER": "Aramak istediğiniz",
+    "FONTSETTINGS_TOGGLE": "Font Ayarları",
+    "SHARE_TOGGLE": "Paylaş",
+    "SHARE_ON": "{{platform}} ile paylaş",
+    "FONTSETTINGS_WHITE": "Beyaz",
+    "FONTSETTINGS_SEPIA": "Sepya",
+    "FONTSETTINGS_NIGHT": "Karanlık",
+    "FONTSETTINGS_SANS": "Sans",
+    "FONTSETTINGS_SERIF": "Serif"
+}
+>>>>>>> b35682879c9b64e32d4f1e144bc858a4a4ee39c8

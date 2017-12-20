@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @import "website/font-awesome/font-awesome.scss";
 
 @import "mixins";
@@ -12,4 +13,20 @@
 @import "website/buttons";
 @import "website/navigation";
 @import "website/search";
+=======
+@import "website/font-awesome/font-awesome.scss";
+
+@import "mixins";
+
+@import "website/normalize";
+@import "website/base";
+@import "website/book";
+@import "website/page";
+@import "website/header";
+@import "website/sidebar";
+@import "website/markup";
+@import "website/buttons";
+@import "website/navigation";
+@import "website/search";
+>>>>>>> b35682879c9b64e32d4f1e144bc858a4a4ee39c8
 @import "website/dropdown";

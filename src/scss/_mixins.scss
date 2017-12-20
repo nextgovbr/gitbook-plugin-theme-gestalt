@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 
 // Prints all CSS rules from a map
+=======
+
+// Prints all CSS rules from a map
+>>>>>>> b35682879c9b64e32d4f1e144bc858a4a4ee39c8
 @mixin print($map) { @each $key, $value in $map { #{$key} : $value; } }

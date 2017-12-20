@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "LANGS_CHOOSE": "Selecciona un idioma",
     "GLOSSARY": "Glossari",
@@ -18,3 +19,25 @@
     "FONTSETTINGS_SANS": "Sans",
     "FONTSETTINGS_SERIF": "Serif"
 }
+=======
+{
+    "LANGS_CHOOSE": "Selecciona un idioma",
+    "GLOSSARY": "Glossari",
+    "GLOSSARY_INDEX": "Índex",
+    "GLOSSARY_OPEN": "Glossari",
+    "GITBOOK_LINK": "Publicat amb GitBook",
+    "SUMMARY": "Taula de contingut",
+    "SUMMARY_INTRODUCTION": "Introducció",
+    "SUMMARY_TOGGLE": "Taula de contingut",
+    "SEARCH_TOGGLE": "Cercar",
+    "SEARCH_PLACEHOLDER": "Escriu per cercar",
+    "FONTSETTINGS_TOGGLE": "Configuració de font",
+    "SHARE_TOGGLE": "Compartir",
+    "SHARE_ON": "Compartir en {{platform}}",
+    "FONTSETTINGS_WHITE": "Clar",
+    "FONTSETTINGS_SEPIA": "Sèpia",
+    "FONTSETTINGS_NIGHT": "Nit",
+    "FONTSETTINGS_SANS": "Sans",
+    "FONTSETTINGS_SERIF": "Serif"
+}
+>>>>>>> b35682879c9b64e32d4f1e144bc858a4a4ee39c8

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "LANGS_CHOOSE": "Alege o limba",
     "GLOSSARY": "Glosar",
@@ -18,3 +19,25 @@
     "FONTSETTINGS_SANS": "Sans",
     "FONTSETTINGS_SERIF": "Serif"
 }
+=======
+{
+    "LANGS_CHOOSE": "Alege o limba",
+    "GLOSSARY": "Glosar",
+    "GLOSSARY_INDEX": "Index",
+    "GLOSSARY_OPEN": "Glosar",
+    "GITBOOK_LINK": "Publicata cu GitBook",
+    "SUMMARY": "Cuprins",
+    "SUMMARY_INTRODUCTION": "Introducere",
+    "SUMMARY_TOGGLE": "Cuprins",
+    "SEARCH_TOGGLE": "Cauta",
+    "SEARCH_PLACEHOLDER": "Ce cauti",
+    "FONTSETTINGS_TOGGLE": "Setari de font",
+    "SHARE_TOGGLE": "Distribuie",
+    "SHARE_ON": "Distribuie pe {{platform}}",
+    "FONTSETTINGS_WHITE": "Alb",
+    "FONTSETTINGS_SEPIA": "Sepia",
+    "FONTSETTINGS_NIGHT": "Noapte",
+    "FONTSETTINGS_SANS": "Sans",
+    "FONTSETTINGS_SERIF": "Serif"
+}
+>>>>>>> b35682879c9b64e32d4f1e144bc858a4a4ee39c8

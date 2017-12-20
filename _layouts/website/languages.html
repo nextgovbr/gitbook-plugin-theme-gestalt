@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {% extends "./layout.html" %}
 
 {% block title %}{{ "LANGS_CHOOSE"|t }} · {{ super() }}{% endblock %}
@@ -17,3 +18,24 @@
     </div>
 </div>
 {% endblock %}
+=======
+{% extends "./layout.html" %}
+
+{% block title %}{{ "LANGS_CHOOSE"|t }} · {{ super() }}{% endblock %}
+
+{% block body %}
+<div class="book-langs-index" role="navigation">
+    <div class="inner">
+        <h3>{{ "LANGS_CHOOSE"|t }}</h3>
+
+        <ul class="languages">
+        {%  for lang in languages.list %}
+            <li>
+                <a href="{{ (lang.id + "/README.md")|contentURL }}">{{ lang.title }}</a>
+            </li>
+        {% endfor %}
+        </ul>
+    </div>
+</div>
+{% endblock %}
+>>>>>>> b35682879c9b64e32d4f1e144bc858a4a4ee39c8

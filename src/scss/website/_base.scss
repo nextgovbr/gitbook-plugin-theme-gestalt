@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 //  #   Base
 //      Defines styles for basic elements
 
@@ -34,3 +35,41 @@ body
     -webkit-text-size-adjust: 100%;
 }
 
+=======
+//  #   Base
+//      Defines styles for basic elements
+
+//	*******************************************************
+// 	## HTML and BODY
+//	*******************************************************
+
+*
+{
+    box-sizing: border-box;
+    -webkit-overflow-scrolling: touch;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-text-size-adjust: none;
+    -webkit-touch-callout: none;
+    -webkit-font-smoothing: antialiased;
+}
+
+html, body
+{ 
+    height: 100%; 
+    font-size: $font-size-base;
+}
+
+html {}
+
+body
+{
+    text-rendering: optimizeLegibility;
+    font-smoothing: antialiased;
+    font-family: $font-family-base;
+
+    text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+
+>>>>>>> b35682879c9b64e32d4f1e144bc858a4a4ee39c8

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "LANGS_CHOOSE": "Scegli una lingua",
     "GLOSSARY": "Glossario",
@@ -17,4 +18,25 @@
     "FONTSETTINGS_NIGHT": "Notte",
     "FONTSETTINGS_SANS": "Sans",
     "FONTSETTINGS_SERIF": "Serif"
+=======
+{
+    "LANGS_CHOOSE": "Scegli una lingua",
+    "GLOSSARY": "Glossario",
+    "GLOSSARY_INDEX": "Indice",
+    "GLOSSARY_OPEN": "Glossario",
+    "GITBOOK_LINK": "Pubblicato con GitBook",
+    "SUMMARY": "Sommario",
+    "SUMMARY_INTRODUCTION": "Introduzione",
+    "SUMMARY_TOGGLE": "Sommario",
+    "SEARCH_TOGGLE": "Cerca",
+    "SEARCH_PLACEHOLDER": "Scrivi per cercare",
+    "FONTSETTINGS_TOGGLE": "Impostazioni dei caratteri",
+    "SHARE_TOGGLE": "Condividi",
+    "SHARE_ON": "Condividi su {{platform}}",
+    "FONTSETTINGS_WHITE": "Bianco",
+    "FONTSETTINGS_SEPIA": "Seppia",
+    "FONTSETTINGS_NIGHT": "Notte",
+    "FONTSETTINGS_SANS": "Sans",
+    "FONTSETTINGS_SERIF": "Serif"
+>>>>>>> b35682879c9b64e32d4f1e144bc858a4a4ee39c8
 }
